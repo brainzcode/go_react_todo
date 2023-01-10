@@ -1,9 +1,9 @@
 package main
 
 import (
-	"Log"
 	"fmt"
-	"go_react_todo/router"
+	"github.com/brainzcode/go_react_todo/router"
+	"log"
 	"net/http"
 )
 
